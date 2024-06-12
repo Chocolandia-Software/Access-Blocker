@@ -8,3 +8,6 @@ It is written in Python and uses the default Tkinter GUI Framework. It prevents 
 
 # Interface
 I am not actually that good with PySide or PyQT so you are encouraged to open a pull request to move Tk into Qt, because Tk is very basic.
+
+# Compatibility
+The application was built for the Windows operating system, and testing on Linux is yet to be done. It might work out if I change some code but it might need to completely change the entire code. Compatibility with macOS is not to be expected and will not be officially tested as I don't use macOS. 
